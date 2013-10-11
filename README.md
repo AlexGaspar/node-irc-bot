@@ -7,7 +7,7 @@ A Simple IRC bot
 Bot Commands
 ============
 
-You can add your own command by editing the commads object and add your function.
+You can add your own command by editing the commands object and add your function.
 
 Synthax :
 ```

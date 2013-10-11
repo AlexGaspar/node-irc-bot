@@ -1,4 +1,4 @@
-node-irc-bot
+Node IRC Bot
 ============
 
 A Simple IRC bot
@@ -17,7 +17,7 @@ Object = {
 }
 ```
 
-Example Config file
+Config
 ====================
 ```
 host     : 'irc.freenode.org'

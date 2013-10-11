@@ -10,7 +10,7 @@ var Bot = require('./bot');
 
 
 /**
- * List of bot command
+ * Bot's commands
  */
 var time = function() {
   var date = new Date();

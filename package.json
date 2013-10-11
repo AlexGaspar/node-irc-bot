@@ -1,0 +1,9 @@
+{
+  "name": "Nodirc",
+  "version": "0.0.1",
+  "description": "Simple IRC bot",
+  "main": "main.js",
+  "private": true,
+  "dependencies": {
+  }
+}

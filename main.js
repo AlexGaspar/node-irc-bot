@@ -18,11 +18,11 @@ var time = function() {
   return date.getDay() + "/" + date.getMonth() + "/" + date.getYear();
 };
 
-var weather = function() { return'Sunny'; };
+var weather = function() { return 'Sunny' };
 
 var commands = {
-  time: time,
-  weather: weather
+    time: time
+  , weather: weather
 };
 
 
